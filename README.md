@@ -1,12 +1,9 @@
-# week_0
-# # EDA Analysis for Solar Irradiance Dataset
+EDA Analysis for Solar Irradiance Dataset
 This repository contains the Exploratory Data Analysis (EDA) conducted on a dataset related to solar irradiance, weather, and sensor measurements. The analysis aims to uncover patterns, clean the data, and gain insights for further modeling or use cases.
 
-# Branches
 Main Branch: Contains the finalized code and results for the EDA analysis.
 task-1 Branch: Dedicated to Day 1 analysis, focusing on initial EDA tasks like summary statistics, data cleaning, and plotting.
 
-# Objectives
 Summary Statistics:
 
 Compute mean, median, standard deviation, and other statistical measures for numeric columns like GHI, DNI, DHI, Tamb, etc.
