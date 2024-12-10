@@ -1,4 +1,5 @@
-EDA Analysis for Solar Irradiance Dataset
+# EDA Analysis for Solar Irradiance Dataset
+
 This repository contains the Exploratory Data Analysis (EDA) conducted on a dataset related to solar irradiance, weather, and sensor measurements. The analysis aims to uncover patterns, clean the data, and gain insights for further modeling or use cases.
 
 Main Branch: Contains the finalized code and results for the EDA analysis.
